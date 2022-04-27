@@ -1,0 +1,11 @@
+Version 1.1.0 to 1.2.0:
+
+* We may implement a web services backend.
+
+* We may implement further iOS options for CalDAV and CardDAV and similar.
+
+* Maybe we will include mutt support.
+
+* Proxy for Autodiscover.
+
+No further plans at this time of writing.
